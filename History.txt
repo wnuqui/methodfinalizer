@@ -1,0 +1,11 @@
+=== 0.5.0 / 2009-03-23
+
+* first release
+
+  * Birthday!
+
+=== 0.6.0 / 2009-03-24
+
+* added 2 methods
+
+  * added 'final_singleton_method_exists?' and 'final_instance_method_exists?'
